@@ -83,10 +83,10 @@ function Header() {
         </ul>
       </div>
 
-      <div className="flex justify-center items-center gap-4">
+      <div className="flex justify-center items-center gap-2">
         <div className="flex justify-center items-center gap-2">
           < FaPhoneAlt className="text-black dark:text-white size-5" />
-          <p className="text-black dark:text-white">+249 11988308</p>
+          <p className="text-black dark:text-white">+24911988308</p>
         </div>
         <div className="flex justify-center items-center gap-2">
           <FaUserCircle className="text-black dark:text-white size-5" />
