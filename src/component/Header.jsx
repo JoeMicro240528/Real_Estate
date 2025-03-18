@@ -85,7 +85,7 @@ function Header() {
 
       <div className="flex justify-center items-center gap-2">
         <div className="flex justify-center items-center gap-2">
-          < FaPhoneAlt className="text-black dark:text-white size-5" />
+          < FaPhoneAlt className="text-black dark:text-white size-4" />
           <p className="text-black dark:text-white">+24911988308</p>
         </div>
         <div className="flex justify-center items-center gap-2">
